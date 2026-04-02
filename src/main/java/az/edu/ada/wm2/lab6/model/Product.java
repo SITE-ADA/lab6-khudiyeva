@@ -95,6 +95,7 @@ public class Product {
                 ", productName='" + productName + '\'' +
                 ", price=" + price +
                 ", expirationDate=" + expirationDate +
+                ", categories=" + categories +
                 '}';
     }
 }
